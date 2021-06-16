@@ -30,8 +30,9 @@ Django Rest Framework API Exemple
 
     pip install -r requirements.txt
     SET DJANGO_SETTINGS_MODULE=escola.settings
+    python manage.py makemigrations
+    python manage.py migrate
 	
-
 ### Usage
 
     python manage.py runserver
