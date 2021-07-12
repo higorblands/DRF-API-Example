@@ -6,11 +6,11 @@ Django Rest Framework API Exemple
 
 * Tested API authentication endpoint validations.
 * Tested authenticated user authorization. 
-* Create a todo with API.
-* Update a todo with API.
-* Update a todo with API.
-* Delete a todo with API.
-* Get todo list for a user.
+* Create with API.
+* Update with API.
+* Update with API.
+* Delete with API.
+* Get list for a user.
 * Override Update to record the atualization Cursos field.
 * Pagination.
 
@@ -36,3 +36,5 @@ Django Rest Framework API Exemple
 ### Usage
 
     python manage.py runserver
+    
+Enjoyt it !
