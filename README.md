@@ -1,6 +1,5 @@
-# DRF-API-Example
+# DRF-API- RESTFul API for management courses with View
 
-Django Rest Framework API Exemple
 
 ### Some Case Scenarios
 
