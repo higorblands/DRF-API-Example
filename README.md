@@ -1,4 +1,4 @@
-# DRF-API- RESTFul API for management courses with View
+# DRF-API-RESTFul API for management courses with View
 
 
 ### Some Case Scenarios
